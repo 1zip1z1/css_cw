@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Condensed:ital,wght@0,300;1,300&display=swap')
+
+
+body {
+	background: red;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	background: black;
+	font-size: 100px ;
+	font-family:'Roboto Condensed' sans-serif;
+	text-shadow: -17px -17px 4px rgba(126, 150, 90, 0.69);
+}
+	span{
+		color: yellow;
+	}
+
+
+.yellow_letter {
+
+	color: yellow;
+}
+
+
+.blue_letter {
+
+	color: blue
+}
+
+
+#golden_element {
+	color: grey;
+	background: green;
+
+}
+
